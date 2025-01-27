@@ -299,7 +299,6 @@ C:\Users\dudu_\RiderProjects\ControleDeEstoque.API\ControleDeEstoque.API\bin\Deb
 C:\Users\dudu_\RiderProjects\ControleDeEstoque.API\ControleDeEstoque.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Granter\RiderProjects\ControleDeEstoque.API\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Granter\RiderProjects\ControleDeEstoque.API\bin\Debug\net8.0\appsettings.json
-C:\Users\Granter\RiderProjects\ControleDeEstoque.API\bin\Debug\net8.0\global.json
 C:\Users\Granter\RiderProjects\ControleDeEstoque.API\bin\Debug\net8.0\ControleDeEstoque.API.exe
 C:\Users\Granter\RiderProjects\ControleDeEstoque.API\bin\Debug\net8.0\ControleDeEstoque.API.deps.json
 C:\Users\Granter\RiderProjects\ControleDeEstoque.API\bin\Debug\net8.0\ControleDeEstoque.API.runtimeconfig.json

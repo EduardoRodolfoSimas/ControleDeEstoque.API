@@ -4618,11 +4618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Granter\\RiderProjects\\ControleDeEstoque.API\\ControleDeEstoque.API\\ControleDeEstoque.API.csproj",
+      "projectUniqueName": "C:\\Users\\Granter\\RiderProjects\\ControleDeEstoque.API\\ControleDeEstoque.API.csproj",
       "projectName": "ControleDeEstoque.API",
-      "projectPath": "C:\\Users\\Granter\\RiderProjects\\ControleDeEstoque.API\\ControleDeEstoque.API\\ControleDeEstoque.API.csproj",
+      "projectPath": "C:\\Users\\Granter\\RiderProjects\\ControleDeEstoque.API\\ControleDeEstoque.API.csproj",
       "packagesPath": "C:\\Users\\Granter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Granter\\RiderProjects\\ControleDeEstoque.API\\ControleDeEstoque.API\\obj\\",
+      "outputPath": "C:\\Users\\Granter\\RiderProjects\\ControleDeEstoque.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Granter\\AppData\\Roaming\\NuGet\\NuGet.Config"
