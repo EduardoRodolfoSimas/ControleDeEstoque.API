@@ -35,7 +35,8 @@
                         v.Id,
                         v.DataVenda,
                         v.ValorTotal,
-                        v.MetodoPagamentoId,
+                        v.MetodoPagamento,
+                        v.MetodoPagamentoTipo,
                         Itens = v.Itens.Select(i => new
                         {
                             i.Id,

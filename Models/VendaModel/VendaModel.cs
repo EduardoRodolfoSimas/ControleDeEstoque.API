@@ -7,6 +7,7 @@ namespace ControleDeEstoque.API.Models.VendaModel;
             public Guid Id { get; private set; }
             public Guid MetodoPagamentoId { get; private set; }
             public PagamentoModel.PagamentoModel MetodoPagamento { get; set; }
+            public string MetodoPagamentoTipo => MetodoPagamento?.Tipo;
 
             public decimal ValorTotal { get; private set; }
             public DateTime DataVenda { get; private set; }
@@ -35,6 +36,7 @@ namespace ControleDeEstoque.API.Models.VendaModel;
             public void AtualizarVenda(Guid metodoPagamentoId, List<VendaItemModel> itens)
             {
                 MetodoPagamentoId = metodoPagamentoId;
+                MetodoPagamento = null;
                 Itens = itens;
                 AtualizarValorTotal();
             }

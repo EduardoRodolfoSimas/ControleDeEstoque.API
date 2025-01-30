@@ -24,6 +24,8 @@ namespace ControleDeEstoque.API.Models.VendaModel
 
         [ForeignKey("ProdutoId")]
         public virtual ProdutoModel.ProdutoModel? Produto { get; set; }
+        public string ProdutoNome => Produto?.Nome;
+
 
         public int Quantidade { get; private set; }
 
